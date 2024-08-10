@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Wendure blog
 subtitle: ''
-description: ''
+description: 'email:xmwen1100@gmail.com'
 keywords:
-author: 温湘民
+author: Wendure
 language: zh-CN
 timezone: ''
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-next-master
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
