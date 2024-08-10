@@ -74,12 +74,12 @@ category: Spring
 - 配置一个循环依赖的场景，都使用Setter注入
 
 ```xml
-<bean id="userService" class="cyclereference.UserService">
-    <property name="orderService" ref="orderService"/>
-</bean>
-<bean id="orderService" class="cyclereference.OrderService">
-    <property name="userService" ref="userService"></property>
-</bean>
+	<bean id="a" class="cyclereference.A">
+		<property name="b" ref="b"/>
+	</bean>
+	<bean id="b" class="cyclereference.B">
+		<property name="a" ref="a"></property>
+	</bean>
 ```
 - 流程图如下
 ![循环依赖流程图 (3)](/images/循环依赖流程图.png)
