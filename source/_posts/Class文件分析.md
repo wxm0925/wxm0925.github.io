@@ -1,5 +1,5 @@
 ---
-title: Spring循环依赖分析
+title: class文件分析
 category: JVM
 tag: class结构
 date: 2024/9/11 20:46:25
@@ -30,7 +30,7 @@ public class TestClass {
 
 使用winhex打开class文件的十六进制表示如下图所示
 
-![image-20240904224941918](C:/Users/wen_xm/AppData/Roaming/Typora/typora-user-images/image-20240904224941918.png)
+![image-20240904224941918](/images/class-16进制图片.png)
 
 ## 前10个字节
 
