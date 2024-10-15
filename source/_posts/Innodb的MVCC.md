@@ -1,7 +1,7 @@
 ---
 title: Innodb的MVCC
 date: 2024/10/15 22:20:25
-categories: Mysql
+categories: MySql
 tags: MVCC
 ---
 

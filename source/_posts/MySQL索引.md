@@ -1,6 +1,6 @@
 ---
 title: MySQL索引
-category: MySQL
+category: MySql
 tag: 索引
 date: 2024/10/10 20:46:25
 ---
