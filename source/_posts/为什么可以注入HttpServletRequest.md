@@ -1,3 +1,12 @@
+```
+title: 为什么可以AutoWired注入HttpServletRequest对象？
+category: Spring
+tag: Spring
+date: 2024/12/22 15:46:25
+```
+
+
+
 # 为什么可以AutoWired注入HttpServletRequest对象？
 
 
